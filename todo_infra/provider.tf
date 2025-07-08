@@ -16,3 +16,7 @@ resource "azurerm_resource_group" "apply" {
   name     = "todo-infra-rg"
   location = "353536"
 }
+resource "azurerm_resource_group" "todo_infra1332y2fdedyf" {
+  name     = "todo-infra-rg"
+  location = djswdchjwdcfhbwcw
+}
