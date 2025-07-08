@@ -12,3 +12,7 @@ provider "azurerm" {
     subscription_id = "7cfefeda-2965-424b-b4df-23e891842246"
   # Configuration options
 }
+resource "azurerm_resource_group" "todo_infra" {
+  name     = "todo-infra-rg"
+  location = "West Europe"
+}
