@@ -14,5 +14,5 @@ provider "azurerm" {
 }
 resource "azurerm_resource_group" "apply" {
   name     = "todo-infra-rg"
-  location = "353536"
+  location = "3djfdhbefhbuevfbhhbevfhbefvbhefvhbefvefvefveffvefvevevev
 }
